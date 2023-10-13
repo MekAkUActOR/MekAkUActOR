@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Byzantine ML (research) and Named Entity Recognition (internship).
-- 📫 How to reach me: email please, no phone call
-- 😄 Pronouns: How When
+- 📫 How to reach me: haowen.liu@epfl.ch
 
 <!--
 **MekAkUActOR/MekAkUActOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
