@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Byzantine ML (research) and Named Entity Recognition (internship).
-- 🌱 I’m currently learning Natural Language Processing, Blockchain, and Multi-party Homomorphic Encryption.
+- 🌱 I’m currently learning Natural Language Processing, Blockchain, and Encrypted Machine Learning.
+- 👯 I’m looking to collaborate on Trustworthy Artificial Intelligence.
 - 📫 How to reach me: haowen.liu@epfl.ch
 
 <!--
